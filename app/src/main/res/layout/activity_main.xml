@@ -14,7 +14,7 @@
         android:layout_marginTop="82dp"
         android:layout_marginEnd="211dp"
         android:layout_marginBottom="802dp"
-        android:text="Kaveen Akash"
+        android:text="Lumini Nanayakkara"
         android:textSize="55sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
